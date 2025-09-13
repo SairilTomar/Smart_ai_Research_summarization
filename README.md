@@ -30,8 +30,7 @@ git clone https://github.com/your-username/genai-summarizer.git
 cd genai-summarizer
 # 🧠 GenAI Smart Research Summarizer
 
-An AI-powered assistant to read, understand, summarize, and quiz you on uploaded documents (PDF/TXT). Built for the EZ Works GenAI Internship Assignment.
-
+An AI-powered assistant to read, understand, summarize, and quiz you on uploaded documents (PDF/TXT). 
 ---
 
 ## 🔧 Features
